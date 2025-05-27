@@ -21,3 +21,4 @@ lerna-debug.log*
 *.sw?
 
 node_modules/
+dist/
